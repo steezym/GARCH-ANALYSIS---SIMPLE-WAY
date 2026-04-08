@@ -1,0 +1,5 @@
+{
+  "name": "GARCH",
+  "description": "Eksplorasi interaktif algoritma GARCH dan pemodelan volatilitas keuangan dalam bentuk permainan.",
+  "requestFramePermissions": []
+}
